@@ -1,0 +1,181 @@
+﻿  ObjLoader.cpp
+E:\LearnopenGL\test\ObjLoader.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\LearnopenGL\test\BoxNet.h(21,22): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.h(63,3): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(72,17): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(92,19): warning C4244: “初始化”: 从“double”转换到“GLint”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(114,19): warning C4244: “初始化”: 从“double”转换到“GLint”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(137,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(168,18): warning C4244: “初始化”: 从“double”转换到“GLint”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(172,19): warning C4244: “初始化”: 从“double”转换到“GLint”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(460,17): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(490,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(491,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(492,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(493,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(494,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(495,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(496,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(497,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(498,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(499,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(500,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(501,22): warning C4305: “初始化”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(503,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(509,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(515,16): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(560,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(561,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(588,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(628,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(629,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(630,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(632,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(633,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(634,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(636,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(637,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(638,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(640,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(641,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(642,24): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(799,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\LearnopenGL\test\ObjLoader.cpp(878,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(879,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(880,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(882,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(883,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(884,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(886,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(887,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(888,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(890,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(891,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(892,28): warning C4244: “=”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=GLfloat
+          ]
+E:\LearnopenGL\test\ObjLoader.cpp(1146,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1147,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1148,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1150,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1151,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1152,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1154,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1155,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1156,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1158,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1159,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1160,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1285,18): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1324,44): warning C4305: “参数”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(1325,43): warning C4305: “参数”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(1326,43): warning C4305: “参数”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(1327,43): warning C4305: “参数”: 从“double”到“float”截断
+E:\LearnopenGL\test\ObjLoader.cpp(1434,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1434,42): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1534,89): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1534,72): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1534,55): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1534,33): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1574,31): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1707,14): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1780,14): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1858,14): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(1928,14): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(2002,14): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+E:\LearnopenGL\test\ObjLoader.cpp(2080,14): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  test.vcxproj -> E:\LearnopenGL\test\x64\Debug\test.exe
